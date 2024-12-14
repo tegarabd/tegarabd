@@ -4,7 +4,7 @@
 🌱 **Learning** - Diving deeper into **Spring Boot** and **AWS Cloud Computing**<br/>
 🤝 **Open to Collaborate** - Let’s connect on [**LinkedIn**](https://linkedin.com/in/tegar-abdullah)<br/>
 🤖 **Passionate About** - Building robust, scalable, and high-availability services<br/>
-⚡ **Fun Fact** - I’m in a committed relationship with clean code—messy code? Not my type! 😄<br/>
+⚡ **Fun Fact** - I’m in a committed relationship with clean code, messy code? Not my type! 😄<br/>
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tegarabd_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tegar-abdullah) 
